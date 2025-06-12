@@ -44,7 +44,7 @@ password_validator/
 1. Clone este repositório e acesse a pasta do projeto:
 
     ```bash
-    git clone https://github.com/seuusuario/password_validator.git
+    git clone https://github.com/SamuelASantos/password_validator.git
     cd password_validator
     ```
 
